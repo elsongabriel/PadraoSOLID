@@ -1,6 +1,6 @@
 package br.com.egcservice.open_closed;
 
-import br.com.egcservice.single_resposability.Cliente;
+import br.com.egcservice.single_resposability.AbrirContaClass;
 
 /**
  * Created by elson on 11/06/2016.
@@ -24,11 +24,11 @@ public class Gerente {
 
     }
 
-    public void alterarInformacoesDoCliente(Cliente cliente) {
+    public void alterarInformacoesDoCliente(AbrirContaClass cliente) {
 
     }
 
-    public void desativarCliente(Cliente cliente) {
+    public void desativarCliente(AbrirContaClass cliente) {
         
     }
 }
